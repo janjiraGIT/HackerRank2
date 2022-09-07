@@ -19,7 +19,10 @@ public class Main {
         //ifElse.run();
 
         Loop1 loop1 = new Loop1();
-        loop1.run();
+        //loop1.run();
+
+        MinMaxSum minMaxSum = new MinMaxSum();
+        minMaxSum.run();
 
 
     }
